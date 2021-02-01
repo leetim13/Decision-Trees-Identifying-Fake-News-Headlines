@@ -5,4 +5,6 @@ The goal of this mini project is to use the scikit-learn decision tree classifie
 * `decision_trees_src_code.py` Python version of the source code.
 * `Top_Tree.dot` visualization of the final tree in `.dot` format.
 * `Top_Tree.png` visualization of the final tree in `.png` format.
-* ``Decision-Trees-Identifying-Fake-News-Headlines.ipynb`` the final notebook.
+* **`Decision-Trees-Identifying-Fake-News-Headlines.ipynb`** the final notebook.
+
+![top_tree](Top_Tree.png)
